@@ -19,7 +19,6 @@ criaCartao(
 criaCartao(
     'Adivinhas',
     'O que a fechadura falou para a chave?',
-    'Vamos dar uma voltinha?
+    'Vamos dar uma voltinha?'
 
-'
 )
